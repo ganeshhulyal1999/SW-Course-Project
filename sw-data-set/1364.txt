@@ -1,0 +1,14 @@
+style-code MTSH016780-White::Blue
+fit Slim
+sleeve Full-Sleeve
+model-name Shirt
+id 1364
+product-name Mark-Taylor-Men-s-Checkered-Formal-White-Blue-Shirt
+suitable-for Western-Wear
+pattern Checkered
+reversible No
+collar Semi-Cut-Away
+fabric-care Gentle-Machine-Wash-in-Lukewarm-Water,Do-Not-Bleach
+domain Shirt
+pack-of 1
+fabric Polyester-Cotton-Blend

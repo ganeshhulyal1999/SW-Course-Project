@@ -1,0 +1,7 @@
+style-code L27109386998BLACK
+fit Slim
+sleeve Half-Sleeve
+id 1367
+product-name Lee-Men-s-Casual-Shirt
+domain Shirt
+suitable-for Western-Wear

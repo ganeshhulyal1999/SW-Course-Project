@@ -1,0 +1,6 @@
+domain NOT-ASSIGNED
+id 1120
+model-id DA108
+color Black
+product-name Lapcare-DA108-Dock-Black-
+brand Lapcare

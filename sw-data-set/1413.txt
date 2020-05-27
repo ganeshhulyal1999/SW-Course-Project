@@ -1,0 +1,16 @@
+id 1413
+head-size-in-number 2
+bristle-color White
+bristle-material Polyamide
+number-of-contents-in-sales-package 2
+head-type Extra-Soft
+ideal-for Baby-Girls,Baby-Boys
+bristle-design Tapered-Head
+sales-package Pack-of-2-toothbrushes
+handle-design Easy-grip,Bendable-neck-when-heated-with-water
+product-name TePe-KIDS-toothbrush-Pink-Blue-
+domain NOT-ASSIGNED
+handle-material Thermo-plastic-elastomer
+head-size Small
+character Animals
+other-body-features Extra-soft-bristles

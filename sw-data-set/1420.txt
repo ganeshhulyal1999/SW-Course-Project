@@ -1,0 +1,7 @@
+id 1420
+product-name Cortina-Polyester-Brown-Solid-Eyelet-Window-Curtain-150-cm-in-Height-Pack-of-2-
+domain NOT-ASSIGNED
+transparency Opaque
+model-number Fan-Can-Ele-150-Cof-SO2
+model-name Fancy-Candy-Elegant-Coffee-5FT-Set-of-2
+collection Flora

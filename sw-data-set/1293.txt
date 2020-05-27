@@ -1,0 +1,12 @@
+fit Slim-Fit
+id 1293
+type Pants
+pattern Solid
+fabric Rayon
+pack-of 1
+suitable-for Western-Wear
+belt-loops Yes
+product-name Blackberrys-Slim-Fit-Men-s-Black-Trousers
+domain Trousers
+fabric-care Iron-Low-Heat,Do-Not-Bleach,Machine-Wash-Cold,Do-Not-Tumble-Dry
+occasion Formal

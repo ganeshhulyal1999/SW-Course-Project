@@ -1,0 +1,15 @@
+id 1426
+warranty-summary 7-Days-Replacement-Warranty
+model-number iPhone7Logo-Pretty-Girl-Clock-3D-D1798
+brand-color Pretty-Girl-Clock
+design Pretty-Girl-Clock
+finish Matte
+cut-out-window Yes
+designed-for Apple-iPhone-7-(Logo-view-window)
+pack-of 1
+model-name iPhone7Logo-Pretty-Girl-Clock-3D-D1798
+sales-package 1-Backcover
+product-name 99Sublimation-Back-Cover-for-Apple-iPhone-7-Logo-view-window-Pretty-Girl-Clock-
+domain Mobile
+weight 0.0001
+width-x-height-x-depth 10-cmx15-cmx5-cm

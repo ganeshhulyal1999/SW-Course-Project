@@ -1,0 +1,15 @@
+style-code BBSPCH2056
+domain Shirt
+fit Regular
+sleeve Full-Sleeve
+model-name Cotton-Blend
+id 1327
+product-name Brooklyn-Blues-Men-s-Checkered-Casual-Multicolor-Shirt
+suitable-for Western-Wear
+pattern Checkered
+reversible No
+collar Regular-Collar
+fabric-care Warm-Iron-Only
+closure Button
+pack-of 1
+fabric Cotton-Polyester-Blend

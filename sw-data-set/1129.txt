@@ -1,0 +1,11 @@
+warranty-summary 6-Month-Domestic-Warranty
+domain NOT-ASSIGNED
+not-covered-in-warranty Physical-Damages
+product-name Airplus-AP-AD-201-Dock-Black-
+id 1129
+model-id AP-AD-201
+covered-in-warranty Manufacturing-Defects
+color Black
+warranty-service-type Customer-Needs-To-Call-The-Nearby-Authorized-Service-Center
+type Dock
+brand Airplus

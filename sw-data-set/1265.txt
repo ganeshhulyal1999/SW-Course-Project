@@ -1,0 +1,6 @@
+fit Slim-Fit
+suitable-for Western-Wear
+id 1265
+product-name V-Dot-by-Van-Heusen-Slim-Fit-Men-s-Trousers
+domain Trousers
+occasion Casual

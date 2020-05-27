@@ -1,0 +1,14 @@
+style-code US-PR116-S1-UC1
+domain Shirt
+fit Regular
+sleeve Full-Sleeve
+hem Curved-Hem
+id 1333
+product-name Blackberrys-Men-s-Floral-Print-Casual-Black-Shirt
+suitable-for Western-Wear
+pattern Floral-Print
+fabric-care Machine-wash-in-cold-or-warm-with-all-purpose-detergent.
+reversible No
+closure Button
+pack-of 1
+fabric Cotton

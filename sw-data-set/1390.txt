@@ -1,0 +1,7 @@
+style-code ESFBL5150443White-with-red
+fit Slim
+sleeve Full-Sleeve
+id 1390
+product-name Peter-England-Men-s-Casual-Shirt
+domain Shirt
+suitable-for Western-Wear

@@ -1,0 +1,16 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-0-inch-and-is-wearing-a-of-Size-32
+fly Zipper
+id 1296
+type Pants
+pattern Self-Design
+fabric Polyester
+pack-of 1
+pleats Flat-Front
+belt-loops Yes
+closure Button
+product-name Being-Human-Slim-Fit-Men-s-Dark-Blue-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+occasion Casual
+alteration-required Yes

@@ -1,0 +1,15 @@
+style-code 16A5AC34U008IForest-Green
+placket Full-Button-Down-Placket
+fit Regular
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-40
+id 1359
+product-name United-Colors-of-Benetton-Men-s-Checkered-Casual-White-Green-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

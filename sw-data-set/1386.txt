@@ -1,0 +1,7 @@
+style-code 1OS8748239
+sleeve Full-Sleeve
+pattern Solid
+id 1386
+product-name John-Miller-Men-s-Solid-Formal-White-Shirt
+domain Shirt
+pack-of 1

@@ -1,0 +1,14 @@
+fit Slim-Fit
+suitable-for Western-Wear
+fly Zipper
+id 1276
+type Chinos
+pattern Solid
+fabric Cotton
+pleats Flat-Front
+belt-loops Yes
+closure Button
+product-name Nautica-Slim-Fit-Men-s-Green-Trousers
+domain Trousers
+fabric-care Iron-Steam-or-Dry-as-per-Tag,Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Use-Non-Chlorine-Bleach
+occasion Casual

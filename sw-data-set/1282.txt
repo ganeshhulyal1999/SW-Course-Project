@@ -1,0 +1,4 @@
+product-name Arrow-New-York-Men-s-Trousers
+domain Trousers
+occasion Formal
+id 1282

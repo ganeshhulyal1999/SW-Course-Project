@@ -1,0 +1,15 @@
+style-code GMSFF0074862
+placket Button-Down-Placket
+fit Regular
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-Shirt-of-Size-M
+id 1358
+product-name Gant-Men-s-Checkered-Casual-White-Blue-Orange-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+collar Button-Down-Collar
+domain Shirt
+closure Button

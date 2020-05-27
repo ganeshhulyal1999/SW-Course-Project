@@ -1,0 +1,12 @@
+fit Slim-Fit
+id 1295
+type Chinos
+pattern Solid
+fabric Cotton
+pack-of 1
+suitable-for Western-Wear
+product-name Blackberrys-Slim-Fit-Men-s-Dark-Green-Trousers
+domain Trousers
+fabric-care machine-wash-cold,do-not-tumble-dry,do-not-bleach
+occasion Casual
+alteration-required No

@@ -1,0 +1,9 @@
+id 1401
+sales-package 3-Glasses
+height 0.135
+product-name Velik-Premium-Glassware-Tudor-Beer-Mug-0-3L-Set-Of-3-Pieces-Glass-Set-415-ml-Clear-Pack-of-3-
+domain NOT-ASSIGNED
+other-features Dishwasher-Resistance-With-Glass-Washing-Machines-–-3000-Cycles-Without-The-Visible-Change,Microwave-Resistance-:-Resistant-To-Microwave-Heating-(Din-En-15284),Water-Resistance-:-Class-Iii-Under-Iso-719-Hydrolytic-Resistance-Of-Glass-Grains-At-98°-C,Colour-Clear,Material-Glass,Package-Content:-Standard-3-Pcs-Beer-Mug,(0.3l),Made-In-Europe
+weight 0.53
+heat-resistant Yes
+model-number 1111950030121111

@@ -1,0 +1,9 @@
+id 1408
+sales-package 1-Bottle
+series Classic
+product-name SIDHIVINAYAK-ENTERPRISES-Classic-750-ml-Multicolor-
+domain NOT-ASSIGNED
+other-features Height-26cm,Diameter-6cm
+cap-type Bottle
+model-number W2548
+model-name WB-2549

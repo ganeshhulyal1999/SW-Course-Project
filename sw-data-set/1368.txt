@@ -1,0 +1,7 @@
+style-code W20419912114Navy
+fit Regular
+sleeve Full-Sleeve
+id 1368
+product-name Wrangler-Men-s-Casual-Shirt
+domain Shirt
+suitable-for Western-Wear

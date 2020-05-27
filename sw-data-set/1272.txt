@@ -1,0 +1,4 @@
+product-name John-Miller-Men-s-Black-Trousers
+domain Trousers
+occasion Formal
+id 1272

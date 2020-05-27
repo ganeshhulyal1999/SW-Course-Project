@@ -1,0 +1,4 @@
+product-name Indian-Terrain-Men-s-Trousers
+domain Trousers
+occasion Casual
+id 1264

@@ -1,0 +1,13 @@
+warranty-summary Waranty---Buyer-has-to-courier-it-back-to-seller-at-his-own-cost
+domain NOT-ASSIGNED
+weight 0.05
+id 1128
+product-name eShop24x7-Dock-Dock-Black-
+brand eShop24x7
+charging-support Yes
+type Charging-Dock
+model-id Dock
+not-covered-in-warranty If-damaged
+covered-in-warranty If-not-working
+warranty-service-type Seller-Testing-Waranty
+color Black

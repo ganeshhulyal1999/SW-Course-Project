@@ -1,0 +1,5 @@
+product-name Arrow-Men-s-Trousers
+domain Trousers
+occasion Formal
+suitable-for Western-Wear
+id 1292

@@ -1,0 +1,14 @@
+id 1423
+height 0.38734999999999997
+depth 0.26034999999999997
+other-features 15.6"-/-40-cm-Expandable-Wheeled-Laptop-Case-This-convenient-wheeled-case-securely-protects-your-laptop-and-adds-extra-capacity-on-demand-to-handle-all-of-your-daily-business-needs.-“From-the-makers-of-the-Original-Swiss-Army-Knives”
+capacity 21-L
+compatible-laptop-size 15.6-inch
+other-dimensions expands-to-32d-cm,expands-to-12.75"d
+model-name Rolling-Trevi
+warranty-summary Carry-With-Confidence™-Guarantee
+product-name Victorinox-15-6-inch-Laptop-Strolley-Bag-Black-
+domain Bag
+weight 4.0
+other-body-features 15.6"-/-40-cm-Expandable-Wheeled-Laptop-Case-This-convenient-wheeled-case-securely-protects-your-laptop-and-adds-extra-capacity-on-demand-to-handle-all-of-your-daily-business-needs.-“From-the-makers-of-the-Original-Swiss-Army-Knives”
+width 0.4191

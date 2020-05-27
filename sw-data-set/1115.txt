@@ -1,0 +1,12 @@
+warranty-summary 3-Months-warranty
+domain NOT-ASSIGNED
+not-covered-in-warranty Physical-damage
+id 1115
+product-name Cell-First-cfdockpIphone5wht-Dock-White-
+brand Cell-First
+charging-support Yes
+type Dock
+model-id cfdockpIphone5wht
+covered-in-warranty against-Manufacturing-defects
+warranty-service-type Replacement
+color White

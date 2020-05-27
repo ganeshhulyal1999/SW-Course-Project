@@ -1,0 +1,14 @@
+style-code JCMWSHF087044
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-Shirt-of-Size-40
+id 1394
+product-name John-Players-Men-s-Solid-Casual-Pink-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Solid
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button

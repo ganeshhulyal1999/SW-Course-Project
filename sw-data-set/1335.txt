@@ -1,0 +1,15 @@
+style-code NTW445024NVBLUE
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-Shirt-of-Size-M
+id 1335
+product-name Nautica-Men-s-Checkered-Casual-Grey-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Use-Non-Chlorine-Bleach,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button

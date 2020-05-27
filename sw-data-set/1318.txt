@@ -1,0 +1,7 @@
+style-code ARES0804ALt.-Blue
+sleeve Full-Sleeve
+pattern Solid
+id 1318
+product-name Arrow-Men-s-Solid-Formal-Blue-Shirt
+domain Shirt
+pack-of 1

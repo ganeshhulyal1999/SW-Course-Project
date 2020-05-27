@@ -1,0 +1,17 @@
+fit Regular-Fit
+model-details This-model-has-a-height-of-6-feet-1-inch-and-is-wearing-a-of-Size-32
+fly Zipper
+id 1266
+type Pants
+secondary-color White
+pattern Striped
+fabric Polyester-Viscose
+occasion Formal
+suitable-for Western-Wear
+belt-loops Yes
+closure Button
+product-name Louis-Philippe-Regular-Fit-Men-s-Grey-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Bleach-when-needed,Use-Non-Chlorine-Bleach,Do-not-Iron-on-Print/Embroidery/Embellishment
+pack-of 1
+alteration-required Yes

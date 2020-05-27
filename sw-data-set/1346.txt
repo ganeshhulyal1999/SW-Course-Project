@@ -1,0 +1,13 @@
+style-code NL-C0Z-SILVIO-GREN26Q/GREY
+fit Slim
+sleeve Full-Sleeve
+model-name NL-C0Z-SILVIO:GREN26Q/GREY
+id 1346
+product-name Blackberrys-Men-s-Solid-Casual-Grey-Shirt
+suitable-for Western-Wear
+pattern Solid
+reversible No
+fabric-care material-:-cotton-blend-care-:hand/machine-wash-in-mild-detergent.-dry-in-shade-inside-out.moderate-iron-do-not-use-any-chlorine-bleaches-on-the-garment.
+domain Shirt
+pack-of 1
+fabric Cotton

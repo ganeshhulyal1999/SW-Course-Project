@@ -1,0 +1,15 @@
+style-code 16P5AC07U008I101
+placket Hidden-Button-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-Shirt-of-Size-M
+id 1314
+product-name United-Colors-of-Benetton-Men-s-Solid-Casual-White-Shirt
+hem Curved-Hem
+suitable-for Western-Wear
+pattern Solid
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Dry-Clean,Do-not-Bleach,Line-Dry,Dry-in-Shade,Do-not-Wring,Do-not-Tumble-Dry,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+collar Mandarin-Collar
+domain Shirt
+closure Button
+fabric Cotton

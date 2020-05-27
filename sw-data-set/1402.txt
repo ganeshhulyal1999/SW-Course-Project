@@ -1,0 +1,15 @@
+id 1402
+sales-package 1-Vaporizer
+power-consumption 380-W
+waterless No
+to-be-used-with Add-herbs-or-essential-oils-pack-(long-term-use-may-have-drug-residual,can-be-cleaned-by-alcohal-dripped-cutton-piece),2,2-3-drops-of-essential-oil-on-cotton,place-the-cotton-piece-in-the-nozzle-aromatherpay-box
+material Plastic
+application Steam-inhalator,Facial,aromatherpay
+covered-in-warranty No-warranty-on-this-product-because-hygienic-protection-reason-but-products-is-best-quality
+scent-pad-duration 5-min
+attachments-included 1-tube,1-Plastic-Cup
+suitable-for Vaporizer-Pads,Oils,aroma
+product-name KINGDOM-2-in-1-Hot-Cool-Ceramic-Thermal-Sauna-facial-Steamer-Aroma-Spa-herbal-Vaporizer-White-Multicolor-
+domain NOT-ASSIGNED
+not-covered-in-warranty warranty-does-not-covered-all-test-products
+night-light Yes

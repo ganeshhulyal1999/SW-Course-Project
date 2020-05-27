@@ -1,0 +1,11 @@
+style-code ITS16SHK262-Red
+domain Shirt
+reversible No
+fit Regular
+sleeve Full-Sleeve
+pattern Checkered
+id 1349
+product-name Indian-Terrain-Men-s-Checkered-Casual-Red-Shirt
+suitable-for Western-Wear
+pack-of 1
+closure Button

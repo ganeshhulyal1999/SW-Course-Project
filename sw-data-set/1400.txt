@@ -1,0 +1,11 @@
+id 1400
+product-name Singer-KT-11-Electric-Kettle-1-2-L-
+domain Kettle
+other-features 360°-Swivel-Base
+water-level-indicator Yes
+heating-element Concealed
+operating-mode Cordless
+covered-in-warranty Parts-and-Labor
+auto-switch-off Yes
+model-name KT-11
+not-covered-in-warranty Warranty-shall-not-cover-any-damage-resulting-from-adaptations-or-adjustments-which-may-be-made-to-the-product.-Warranty-does-not-extend-to-cabinets,knobs,labels,or-any-accessories.-Warranty-does-not-cover-the-risk-to-the-product-caused-by-accident,li

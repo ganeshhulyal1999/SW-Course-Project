@@ -1,0 +1,5 @@
+product-name Peter-England-Men-s-Trousers
+domain Trousers
+occasion Formal
+suitable-for Western-Wear
+id 1284

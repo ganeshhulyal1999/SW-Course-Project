@@ -1,0 +1,15 @@
+style-code BBSPCH3059
+domain Shirt
+fit Slim
+sleeve Full-Sleeve
+id 1395
+product-name Brooklyn-Blues-Men-s-Printed-Casual-White-Shirt
+placket Seamless
+suitable-for Western-Wear
+pattern Printed
+reversible No
+collar SLIM-COLLAR
+fabric-care Warm-Wash-Only
+closure Button
+pack-of 1
+fabric Cotton-Polyester-Blend

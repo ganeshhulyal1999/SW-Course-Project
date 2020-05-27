@@ -1,0 +1,7 @@
+id 1427
+sales-package 1-Laptop-Skin,1-Usb-Fan-,1-Usb-Led-Light
+product-name Print-Shapes-Window-vista-Combo-Set-Multicolor-
+domain NOT-ASSIGNED
+warranty-summary No-Warranty
+designed-for All-15.6-inch-Laptop-Skin
+model-name Window-vista

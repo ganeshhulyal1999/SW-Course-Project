@@ -1,0 +1,13 @@
+warranty-summary 1-Year-Warranty-From-Belkin
+domain Mobile
+not-covered-in-warranty Warranty-does-not-cover-any-external-accessories-(such-as-battery,cable,carrying-bag),damage-caused-to-the-product-due-to-improper-installation-by-customer,normal-wear-and-tear-to-magnetic-heads,audio,video,laser-pick-ups-and-TV-picture-tubes,pane
+id 1119
+product-name Belkin-Power-House-Micro-USB-XL-for-Samsung-Galaxy-Tab-S-Tab-S-10-5-inch-Tab-S-8-4-inch-Dock-BlackIIGrey-
+brand Belkin
+charging-support Yes
+fm-radio No
+type Charging-Dock
+model-id Power-House-Micro-USB-XL-for-Samsung-Galaxy-Tab-S,Tab-S-10.5-inch,Tab-S-8.4-inch
+covered-in-warranty 1-Year-warranty-From-Belkin
+warranty-service-type Customer-needs-to-call-the-nearby-Authorized-Service-Center
+color BlackIIGrey

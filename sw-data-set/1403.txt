@@ -1,0 +1,14 @@
+id 1403
+sales-package 1-Bowl
+height 0.09398
+other-features Dishwasher-Resistance-With-Glass-Washing-Machines-–-3000-Cycles-Without-The-Visible-Change-Microwave-Resistance-:-Resistant-To-Microwave-Heating-(Din-En-15284)-Water-Resistance-:-Class-Iii-Under-Iso-719-Hydrolytic-Resistance-Of-Glass-Grains-At-98°-C
+capacity 390-ml
+model-number 1151314010
+model-name Stephanie
+diameter 4.3-inch
+dishwasher-safe Yes
+scratch-resistant Yes
+product-name Velik-Premium-Glassware-Stephanie-Glass-Bowl-Clear-Pack-of-1-
+domain NOT-ASSIGNED
+weight 0.31
+freezer-safe Yes

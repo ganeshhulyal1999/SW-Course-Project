@@ -1,0 +1,7 @@
+id 1421
+product-name Cortina-Polyester-Brown-Checkered-Eyelet-Window-Curtain-150-cm-in-Height-Single-Curtain-
+domain NOT-ASSIGNED
+transparency Opaque
+model-number Fan-Can-Ele-150-Cof
+model-name Fancy-Candy-Elegant-Coffee-5FT
+collection Flora

@@ -1,0 +1,17 @@
+style-code ITS16SHK284Blue
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-of-Size-M
+id 1393
+product-name Indian-Terrain-Men-s-Self-Design-Casual-Light-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+domain Shirt
+pattern Self-Design
+reversible No
+collar Spread-Collar
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+closure Button
+pack-of 1
+fabric Cotton

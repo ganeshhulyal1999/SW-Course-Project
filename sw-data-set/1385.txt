@@ -1,0 +1,15 @@
+style-code ISFB5150142OTHERS
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-Shirt-of-Size-40
+id 1385
+product-name Peter-England-Men-s-Woven-Casual-White-Beige-Shirt
+hem Straight-Hem
+pockets Welt-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Woven
+fabric-care Do-not-Bleach,Drip-Dry,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button

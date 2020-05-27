@@ -1,0 +1,15 @@
+style-code RMSX05683-O7Dark-Brown
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-of-Size-40
+id 1317
+product-name Raymond-Men-s-Checkered-Formal-Brown-Shirt
+hem Straight-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton-Polyester-Blend

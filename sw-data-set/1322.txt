@@ -1,0 +1,16 @@
+style-code ASRS3035Me.-Blue
+placket Full-Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-2-inches-and-is-wearing-a-Shirt-of-Size-39
+id 1322
+product-name Arrow-Sports-Men-s-Printed-Casual-Black-Blue-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Printed
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

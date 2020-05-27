@@ -1,0 +1,4 @@
+id 1313
+product-name Van-Heusen-Men-s-Formal-Shirt
+domain Shirt
+style-code VHSF316M08519Light-blue-With-blue

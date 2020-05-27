@@ -1,0 +1,14 @@
+style-code ASPS3317Dk.-Blue
+placket Button-Down-Placket
+fit Slim
+sleeve Roll-up-Sleeve
+model-details This-model-has-a-Height-of-6-feet-0-inches-and-is-wearing-a-Shirt-of-Size-M
+id 1341
+product-name Arrow-Sports-Men-s-Self-Design-Casual-Blue-Shirt
+hem Curved-Hem
+suitable-for Western-Wear
+pattern Self-Design
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+collar Button-Down-Collar
+domain Shirt
+closure Button

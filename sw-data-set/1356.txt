@@ -1,0 +1,7 @@
+style-code EHSH0360LIGHT-BLUE
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-M
+id 1356
+product-name Ed-Hardy-Men-s-Printed-Casual-Blue-Shirt
+domain Shirt
+pack-of 1
+closure Button

@@ -1,0 +1,8 @@
+id 1410
+sales-package 1-Bottle-1000ml
+product-name Cello-S-S-flip-style-bottle-1000-ml-Bottle-Pack-of-1-Silver-
+domain Bottle
+body-material Stainless-Steel
+other-dimensions 20-22-26
+number-of-contents-in-sales-package Pack-of-1
+type Bottle

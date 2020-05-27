@@ -1,0 +1,15 @@
+fit Regular-Fit
+model-details This-model-has-a-height-of-6-feet-1-inch-and-is-wearing-a-Trouser-of-Size-32
+pleats Flat-Front
+fly Zipper
+id 1281
+type Pants
+pattern Solid
+fabric Cotton
+suitable-for Western-Wear
+belt-loops Yes
+closure Button
+product-name Gant-Regular-Fit-Men-s-Beige-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Dry-Clean,Do-not-Bleach,Do-not-Tumble-Dry,Iron-Steam-or-Dry-as-per-Tag
+occasion Casual

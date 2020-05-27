@@ -1,0 +1,7 @@
+style-code WLMWSHS150006Bright-White
+fit Slim
+sleeve Full-Sleeve
+id 1357
+product-name Wills-Lifestyle-Men-s-Casual-Shirt
+domain Shirt
+suitable-for Western-Wear

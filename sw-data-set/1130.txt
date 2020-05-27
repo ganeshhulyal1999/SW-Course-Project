@@ -1,0 +1,11 @@
+warranty-summary 6-month-warranty
+domain NOT-ASSIGNED
+not-covered-in-warranty Physical-Damage
+product-name Airplus-AP-AD-202-Dock-Black-
+id 1130
+model-id AP-AD-202
+covered-in-warranty Manufacturing-Defects
+color Black
+warranty-service-type Customer-Needs-To-Call-The-Nearby-Authorized-Service-Center
+type Dock
+brand Airplus

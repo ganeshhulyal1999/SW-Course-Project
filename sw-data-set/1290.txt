@@ -1,0 +1,15 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-2-inch-and-is-wearing-a-Trouser-of-Size-32
+pleats Flat-Front
+fly Zipper
+id 1290
+type Chinos
+pattern Solid
+fabric Cotton
+suitable-for Western-Wear
+belt-loops Yes
+closure Button
+product-name People-Slim-Fit-Men-s-Red-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+occasion Casual

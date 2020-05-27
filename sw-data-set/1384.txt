@@ -1,0 +1,11 @@
+style-code ISF61501575
+domain Shirt
+reversible No
+fit Regular
+sleeve Full-Sleeve
+pattern Striped
+id 1384
+product-name Peter-England-Men-s-Striped-Formal-Purple-White-Shirt
+suitable-for Western-Wear
+pack-of 1
+fabric 100%-Cotton

@@ -1,0 +1,15 @@
+id 1424
+warranty-summary 7-Days-Replacement-Warranty
+model-number iPhone7Logo-Owl-Wooden-Clock-3D-D1786
+brand-color Owl-Wooden-Clock
+design Owl-Wooden-Clock
+finish Matte
+cut-out-window Yes
+designed-for Apple-iPhone-7-(Logo-view-window)
+pack-of 1
+model-name iPhone7Logo-Owl-Wooden-Clock-3D-D1786
+sales-package 1-Backcover
+product-name 99Sublimation-Back-Cover-for-Apple-iPhone-7-Logo-view-window-Owl-Wooden-Clock-
+domain Mobile
+weight 0.0001
+width-x-height-x-depth 10-cmx15-cmx5-cm

@@ -1,0 +1,14 @@
+fit Slim-Fit
+suitable-for Western-Wear
+fly Zipper
+id 1277
+pattern Solid
+fabric Polyester
+pleats Flat-Front
+belt-loops Yes
+closure Button,Hook
+product-name John-Players-Slim-Fit-Men-s-Brown-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Line-Dry,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+occasion Formal
+alteration-required Yes

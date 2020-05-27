@@ -1,0 +1,5 @@
+product-name Integriti-Men-s-Brown-Trousers
+domain Trousers
+occasion Casual
+suitable-for Western-Wear
+id 1275

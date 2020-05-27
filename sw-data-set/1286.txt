@@ -1,0 +1,16 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-0-inch-and-is-wearing-a-Trouser-of-Size-32
+pleats Flat-Front
+fly Zipper
+id 1286
+type Pants
+pattern Solid
+fabric Rayon
+suitable-for Western-Wear
+belt-loops No
+closure Button
+product-name Peter-England-Slim-Fit-Men-s-Dark-Blue-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Bleach-when-needed,Use-Non-Chlorine-Bleach,Iron-Steam-or-Dry-as-per-Tag
+occasion Formal
+alteration-required Yes

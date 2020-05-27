@@ -1,0 +1,15 @@
+style-code ASRY5046Dk.-Green
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-40
+id 1315
+product-name Arrow-New-York-Men-s-Striped-Formal-Blue-Green-Shirt
+hem Curved-Hem
+pockets 1-Patch-Pocket-on-Chest
+pattern Striped
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag,Do-not-Iron-on-Print/Embroidery/Embellishment
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton-Lycra-Blend

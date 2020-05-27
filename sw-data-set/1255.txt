@@ -1,0 +1,15 @@
+depth 0.2413
+delivery-condition Knock-Down
+domain Shoe
+width 0.7490000000000001
+type Shoe-Cabinet
+warranty-service-type Installation,Uninstallation-and-tech-visit
+product-name RoyalOak-Engineered-Wood-Shoe-Cabinet
+brand RoyalOak
+installation-&-demo-details Installation-and-demo-for-this-product-is-done-free-of-cost-as-part-of-this-purchase.-Our-service-partner-will-visit-your-location-within-72-business-hours-from-the-delivery-of-the-product
+model-number SR1501CH
+material Engineered-Wood
+wall-mount-support No
+height 0.685
+weight 15
+id 1255

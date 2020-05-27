@@ -1,0 +1,6 @@
+fit Regular-Fit
+suitable-for Western-Wear
+id 1287
+product-name V-Dot-by-Van-Heusen-Regular-Fit-Men-s-Trousers
+domain Trousers
+occasion Casual

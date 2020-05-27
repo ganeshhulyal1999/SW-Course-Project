@@ -1,0 +1,10 @@
+domain Mobile
+not-covered-in-warranty Warranty-does-not-cover-any-part
+product-name Mobilegear-OK-Stand-For-Tablet-Smartphones-Dock-Black-
+id 1121
+model-id OK-Stand-For-Tablet-&-Smartphones
+covered-in-warranty Warranty-of-product-is-limited
+color Black
+warranty-service-type Customer-needs-to-come-to-center
+type Dock
+brand Mobilegear

@@ -1,0 +1,7 @@
+id 1416
+sales-package 1-Laptop-Skin,1-Usb-Fan
+product-name Print-Shapes-windows-acer-blue-Combo-Set-Multicolor-
+domain NOT-ASSIGNED
+warranty-summary No-Warranty
+designed-for All-15.6-inch-Laptop-Skin
+model-name windows-acer-blue

@@ -1,0 +1,7 @@
+id 1419
+product-name Cortina-Polyester-Orange-Solid-Eyelet-Window-Curtain-150-cm-in-Height-Single-Curtain-
+domain NOT-ASSIGNED
+transparency Opaque
+model-number Fan-Can-Ele-150-Rus
+model-name Fancy-Candy-Elegant-Rust-5FT
+collection Flora

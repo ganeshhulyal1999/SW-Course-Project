@@ -1,0 +1,15 @@
+style-code JWPFS4401A3
+domain Shirt
+fit Slim
+sleeve Full-Sleeve
+hem Curved-Hem
+id 1354
+product-name John-Players-Men-s-Checkered-Casual-Black-Shirt
+placket Button-Down-Placket
+pockets 1-Patch-Pocket-on-Chest
+suitable-for Western-Wear
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Do-not-Bleach,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+closure Button
+fabric Cotton

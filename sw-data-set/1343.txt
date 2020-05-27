@@ -1,0 +1,9 @@
+style-code ARES0526ALavender
+reversible No
+fit Regular
+sleeve Full-Sleeve
+pattern Solid
+id 1343
+product-name Arrow-Men-s-Solid-Formal-Purple-Shirt
+domain Shirt
+pack-of 1

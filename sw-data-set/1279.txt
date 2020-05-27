@@ -1,0 +1,13 @@
+fit Slim-Fit
+fly Zipper
+id 1279
+type Chinos
+inseam-length 24-inch
+pattern Houndstooth
+fabric Cotton
+pack-of 1
+suitable-for Western-Wear
+closure Button
+product-name People-Slim-Fit-Men-s-Purple-Blue-Trousers
+domain Trousers
+occasion Casual

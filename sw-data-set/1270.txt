@@ -1,0 +1,14 @@
+fit Slim-Fit
+model-details This-model-has-a-height-of-6-feet-1-inch-and-is-wearing-a-of-Size-32
+fly Zipper
+id 1270
+type Pants
+pattern Solid
+fabric Polyester
+belt-loops Yes
+closure Button,Hook
+product-name Peter-England-Slim-Fit-Men-s-Black-Trousers
+domain Trousers
+fabric-care Machine-Wash-as-per-Tag,Iron-Steam-or-Dry-as-per-Tag
+occasion Formal
+alteration-required Yes

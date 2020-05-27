@@ -1,0 +1,14 @@
+style-code ASQS3001Me.-Grey
+placket Button-Down-Placket
+fit Slim
+sleeve Full-Sleeve
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-Shirt-of-Size-40
+id 1340
+product-name Arrow-Sport-Men-s-Checkered-Casual-Multicolor-Shirt
+hem Curved-Hem
+suitable-for Western-Wear
+pattern Checkered
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Do-not-Bleach,Do-not-Wring,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button

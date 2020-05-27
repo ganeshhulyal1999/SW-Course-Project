@@ -1,0 +1,13 @@
+fit Slim-Fit
+fly Zipper
+id 1285
+type Trousers
+fabric Lycra
+pack-of 1
+suitable-for Western-Wear
+belt-loops Yes
+closure Button
+product-name Blackberrys-Slim-Fit-Men-s-Brown-Trousers
+domain Trousers
+fabric-care Dry-in-shade,Do-not-Bleach,Dry-inside-out
+occasion Formal

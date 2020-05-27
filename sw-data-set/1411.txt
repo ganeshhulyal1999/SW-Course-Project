@@ -1,0 +1,11 @@
+id 1411
+suitable-for Whisky,Juice
+sales-package 6-Glasses
+product-name Velik-Premium-Glassware-Tavola-Wishky-Glass-Set-270-ml-Clear-Pack-of-6-
+domain NOT-ASSIGNED
+other-features dishwasher-resistance-with-glass-washing-machines-���-3000-cycles-without-the-visible-change-Microwave-resistance-:-Resistant-to-microwave-heating-(DIN-EN-15284)-Water-resistance-:-Class-III-under-ISO-719-Hydrolytic-resistance-of-glass-grains-at-98��-C
+weight 0.295
+heat-resistant Yes
+model-number D11V10K75S60P20
+height 0.1
+diameter 8.6-cm

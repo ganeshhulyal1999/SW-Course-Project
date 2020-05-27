@@ -1,0 +1,8 @@
+id 1418
+sales-package 1-Laptop-Skin,1-Usb-Fan-,1-Reversible-Laptop-Sleeve
+product-name Print-Shapes-Windows-7-Black-Combo-Set-Multicolor-
+domain NOT-ASSIGNED
+laptop-sleeve-size 15.6-inch
+warranty-summary No-Warranty
+designed-for All-15.6-inch-Laptop-Skin
+model-name Windows-7-Black

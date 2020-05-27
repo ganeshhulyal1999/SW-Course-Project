@@ -1,0 +1,5 @@
+id 1338
+product-name Arrow-Sports-Men-s-Casual-White-Blue-Shirt
+domain Shirt
+style-code ASQS3110Me.-Blue
+suitable-for Western-Wear

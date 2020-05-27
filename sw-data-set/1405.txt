@@ -1,0 +1,8 @@
+id 1405
+sales-package Kinesio-Tape
+product-name 3-NS-TEx-Kinesiology-Tape-Injury-Tape-Pink-
+domain NOT-ASSIGNED
+weight 0.12
+number-of-contents-in-sales-package Pack-of-1
+material cotton
+type Injury-Tape

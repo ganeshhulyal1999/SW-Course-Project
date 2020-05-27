@@ -1,0 +1,7 @@
+id 1406
+sales-package 3NS-Kinesio-Tape
+product-name 3-NS-TEx-Kinesiology-Tape-Injury-Tape-Black-
+domain NOT-ASSIGNED
+number-of-contents-in-sales-package Pack-of-1
+material Cotton
+type Injury-Tape

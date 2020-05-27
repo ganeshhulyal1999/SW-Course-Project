@@ -1,0 +1,14 @@
+style-code PSF31601001LightPurpleWithPurple
+placket Full-Button-Down-Placket
+sleeve Full-Sleeve
+hem Straight-Hem
+id 1344
+product-name Peter-England-Men-s-Solid-Formal-Purple-Shirt
+model-details This-model-has-a-Height-of-6-feet-1-inches-and-is-wearing-a-of-Size-40
+pockets 1-Patch-Pocket-on-Chest
+pattern Solid
+fabric-care Machine-Wash-as-per-Tag,Wash-with-Like-Colors,Reverse-and-Wash,Do-not-Bleach,Dry-in-Shade,Iron-Steam-or-Dry-as-per-Tag
+collar Spread-Collar
+domain Shirt
+closure Button
+fabric Cotton

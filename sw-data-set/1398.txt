@@ -1,0 +1,14 @@
+id 1398
+removable-filter Yes
+power-requirement 220-240-V,50/60-Hz
+covered-in-warranty Warranty-of-the-product-is-limited-to-manufacturing-defects-only
+model-name Filter-Drip-Coffee-Maker-|-600-ml-water-tank-RCM-M1507
+anti-drip-valve Yes
+sales-package Coffee-maker,Removable-filter,Pitcher-for-coffee,Measuring-spoon,User's-manual,Manual
+product-name REDMOND-RCM-M1507-3-cups-Coffee-Maker-Black-Metallic-
+heat-resistant-lid Yes
+not-covered-in-warranty Warranty-Does-Not-Cover-Any-Physical-Damage-Or-Burnt.-Burnt-Units,Physical-Damage,Unauthorized-Servicing-or-Product-Tampering
+domain Coffee
+warranty-summary 12-Month-domestic-warranty
+service-type Replacement-by-post-via-main-company-office
+cord-length 0.7-m
